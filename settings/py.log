@@ -1,0 +1,958 @@
+
+2023-03-07 15:51:01,252 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://www.change.org/p/%D0%B2%D0%B5%D1%80%D0%BD%D0%B8-%D0%B2%D0%BA-%D0%B2%D0%B0%D1%80%D0%B2%D0%B0%D1%80%D0%B5?source_location=petitions_browse
+=========================== logs ===========================
+navigating to "https://www.change.org/p/%D0%B2%D0%B5%D1%80%D0%BD%D0%B8-%D0%B2%D0%BA-%D0%B2%D0%B0%D1%80%D0%B2%D0%B0%D1%80%D0%B5?source_location=petitions_browse", waiting until "load"
+============================================================
+2023-03-14 20:55:27,742 INFO Программа запущена
+2023-03-14 20:55:27,949 INFO Планировщик запущен
+2023-03-14 20:56:01,361 INFO 'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+2023-03-14 20:56:54,903 INFO Программа запущена
+2023-03-14 20:56:55,129 INFO Планировщик запущен
+2023-03-14 21:02:42,068 INFO 'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+2023-03-14 21:03:01,176 INFO Программа запущена
+2023-03-14 21:03:01,456 INFO Планировщик запущен
+2023-03-14 21:09:04,343 INFO Произошла ошибка при загрузке страницы Navigation failed because page was closed!
+=========================== logs ===========================
+navigating to "https://www.kommersant.ru//gallery/5874735", waiting until "load"
+============================================================
+2023-03-14 21:09:04,347 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-14 21:09:04,353 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-14 21:09:04,358 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-14 21:09:04,363 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-14 21:09:04,370 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-14 21:09:04,374 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-14 21:09:04,378 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-14 21:09:04,383 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-14 21:09:04,387 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-14 21:09:04,390 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-14 21:09:04,393 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-14 21:09:04,399 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-14 21:09:04,402 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-14 21:09:04,406 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-14 21:09:04,410 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-14 21:09:04,416 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-14 21:09:04,419 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-14 21:09:04,423 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-14 21:09:04,427 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-14 21:09:04,432 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-14 21:09:04,435 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-14 21:09:04,439 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-14 21:09:04,443 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-14 21:09:04,446 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-14 21:09:04,450 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-14 21:09:04,454 INFO [Errno 2] No such file or directory: 'data/news.csv'
+2023-03-14 21:09:08,642 INFO 'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+2023-03-14 21:09:13,524 INFO Программа запущена
+2023-03-14 21:09:13,866 INFO Планировщик запущен
+2023-03-14 22:13:45,026 INFO Произошла ошибка при запуске Telethon. Connection to Telegram failed 5 time(s) 
+2023-03-14 22:45:38,635 INFO Программа запущена
+2023-03-14 22:45:38,892 INFO Планировщик запущен
+2023-03-14 22:46:02,751 INFO 'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+2023-03-14 22:46:07,339 INFO Программа запущена
+2023-03-14 22:46:07,540 INFO Планировщик запущен
+2023-03-14 22:58:07,096 INFO 'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+2023-03-14 22:58:27,679 INFO Программа запущена
+2023-03-14 22:58:28,005 INFO Планировщик запущен
+2023-03-14 22:58:46,162 INFO 'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+2023-03-14 22:58:51,091 INFO Программа запущена
+2023-03-14 22:58:51,374 INFO Планировщик запущен
+2023-03-14 23:07:02,959 INFO 'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+2023-03-14 23:07:09,912 INFO Программа запущена
+2023-03-14 23:07:10,298 INFO Планировщик запущен
+2023-03-14 23:11:27,883 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/u/1404739-ao-voltayr-prom/634692-novyy-produkt
+=========================== logs ===========================
+navigating to "https://vc.ru/u/1404739-ao-voltayr-prom/634692-novyy-produkt", waiting until "load"
+============================================================
+2023-03-14 23:11:39,289 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/u/1377908-abs-marketing/634690-kak-sobrat-bolshe-lidov
+=========================== logs ===========================
+navigating to "https://vc.ru/u/1377908-abs-marketing/634690-kak-sobrat-bolshe-lidov", waiting until "load"
+============================================================
+2023-03-14 23:11:39,369 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/u/1377908-abs-marketing/634684-gde-mozhno-vygodno-kupit-sayt-ili-kanal
+=========================== logs ===========================
+navigating to "https://vc.ru/u/1377908-abs-marketing/634684-gde-mozhno-vygodno-kupit-sayt-ili-kanal", waiting until "load"
+============================================================
+2023-03-14 23:11:39,390 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/finance/634675-minyust-ssha-nachal-rassledovanie-kraha-silicon-valley-bank-smi
+=========================== logs ===========================
+navigating to "https://vc.ru/finance/634675-minyust-ssha-nachal-rassledovanie-kraha-silicon-valley-bank-smi", waiting until "load"
+============================================================
+2023-03-14 23:11:39,465 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/u/1579887-valeriya-malkova/634679-8-sovetov-dlya-novichkov-v-professii-stilista
+=========================== logs ===========================
+navigating to "https://vc.ru/u/1579887-valeriya-malkova/634679-8-sovetov-dlya-novichkov-v-professii-stilista", waiting until "load"
+============================================================
+2023-03-14 23:11:39,544 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/u/1585875-kompaniya-solvest/634669-pochemu-vygodnee-brat-pomeshcheniya-v-arendu-a-ne-pokupat
+=========================== logs ===========================
+navigating to "https://vc.ru/u/1585875-kompaniya-solvest/634669-pochemu-vygodnee-brat-pomeshcheniya-v-arendu-a-ne-pokupat", waiting until "load"
+============================================================
+2023-03-14 23:11:39,626 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/u/803465-vilarso/634668-vazhnaya-informaciya-o-sposobah-oplaty-podpiski-tradingview
+=========================== logs ===========================
+navigating to "https://vc.ru/u/803465-vilarso/634668-vazhnaya-informaciya-o-sposobah-oplaty-podpiski-tradingview", waiting until "load"
+============================================================
+2023-03-14 23:11:39,715 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/claim/634666-avito-pokryvaet-moshennikov
+=========================== logs ===========================
+navigating to "https://vc.ru/claim/634666-avito-pokryvaet-moshennikov", waiting until "load"
+============================================================
+2023-03-14 23:11:39,802 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/life/629812-kak-ya-vyigral-150-000-rubley-zanyav-vtoroe-mesto-v-mezhdunarodnom-chempionate
+=========================== logs ===========================
+navigating to "https://vc.ru/life/629812-kak-ya-vyigral-150-000-rubley-zanyav-vtoroe-mesto-v-mezhdunarodnom-chempionate", waiting until "load"
+============================================================
+2023-03-14 23:11:39,887 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/u/1532890-ayti-nebo/634661-5-tehnologiy-kotorye-izmenyat-medicinu-v-2023-godu
+=========================== logs ===========================
+navigating to "https://vc.ru/u/1532890-ayti-nebo/634661-5-tehnologiy-kotorye-izmenyat-medicinu-v-2023-godu", waiting until "load"
+============================================================
+2023-03-14 23:11:39,963 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/flood/634556-shipit-i-carapaetsya-natasha-prodolzhaet-otricat-svoyu-koshachyu-prirodu
+=========================== logs ===========================
+navigating to "https://vc.ru/flood/634556-shipit-i-carapaetsya-natasha-prodolzhaet-otricat-svoyu-koshachyu-prirodu", waiting until "load"
+============================================================
+2023-03-14 23:11:40,052 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/s/1404296-saas-market/634657-opyt-sdal-opyt-prinyal-obuchat-sotrudnikov-stalo-namnogo-legche
+=========================== logs ===========================
+navigating to "https://vc.ru/s/1404296-saas-market/634657-opyt-sdal-opyt-prinyal-obuchat-sotrudnikov-stalo-namnogo-legche", waiting until "load"
+============================================================
+2023-03-14 23:11:40,142 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/u/1290623-nft-smi/634653-prognoz-rynka-na-nedelyu
+=========================== logs ===========================
+navigating to "https://vc.ru/u/1290623-nft-smi/634653-prognoz-rynka-na-nedelyu", waiting until "load"
+============================================================
+2023-03-14 23:11:40,237 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/u/1119137-aleksandr/634652-ono-vyshlo
+=========================== logs ===========================
+navigating to "https://vc.ru/u/1119137-aleksandr/634652-ono-vyshlo", waiting until "load"
+============================================================
+2023-03-14 23:11:40,328 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/life/633964-ot-tablichki-v-eksele-do-prilozheniya-v-app-store-kak-ya-zapustil-svoy-produkt-dlya-upravleniya-byudzhetom
+=========================== logs ===========================
+navigating to "https://vc.ru/life/633964-ot-tablichki-v-eksele-do-prilozheniya-v-app-store-kak-ya-zapustil-svoy-produkt-dlya-upravleniya-byudzhetom", waiting until "load"
+============================================================
+2023-03-14 23:11:40,419 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/marketing/634637-5-layfhakov-kak-ya-za-1-god-raskachal-svoy-telegram-kanal-bez-byudzheta-bez-konkretnoy-strategii-dazhe-bez-konkretnoy-temy
+=========================== logs ===========================
+navigating to "https://vc.ru/marketing/634637-5-layfhakov-kak-ya-za-1-god-raskachal-svoy-telegram-kanal-bez-byudzheta-bez-konkretnoy-strategii-dazhe-bez-konkretnoy-temy", waiting until "load"
+============================================================
+2023-03-14 23:11:40,513 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/u/1563223-aii/634138-pervyy-v-rossii-onlayn-kurs-po-generativnomu-ii-dlya-polzovateley
+=========================== logs ===========================
+navigating to "https://vc.ru/u/1563223-aii/634138-pervyy-v-rossii-onlayn-kurs-po-generativnomu-ii-dlya-polzovateley", waiting until "load"
+============================================================
+2023-03-14 23:11:40,606 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/u/1290623-nft-smi/634650-chto-proizoshlo-s-kriptoy-i-nft-za-nedelyu
+=========================== logs ===========================
+navigating to "https://vc.ru/u/1290623-nft-smi/634650-chto-proizoshlo-s-kriptoy-i-nft-za-nedelyu", waiting until "load"
+============================================================
+2023-03-14 23:11:40,703 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/marketing/634628-7-sposobov-effektivnogo-primeneniya-gpt-chat-v-biznese-i-bloge
+=========================== logs ===========================
+navigating to "https://vc.ru/marketing/634628-7-sposobov-effektivnogo-primeneniya-gpt-chat-v-biznese-i-bloge", waiting until "load"
+============================================================
+2023-03-14 23:11:40,794 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/u/1290623-nft-smi/634642-kak-stilistu-primenit-svoi-navyki-v-metavselennoy-vse-o-professii-cifrovoy-stilist
+=========================== logs ===========================
+navigating to "https://vc.ru/u/1290623-nft-smi/634642-kak-stilistu-primenit-svoi-navyki-v-metavselennoy-vse-o-professii-cifrovoy-stilist", waiting until "load"
+============================================================
+2023-03-14 23:11:40,893 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/u/406524-delo/634645-pokupka-ili-prodazha-biznesa-upravlyayte-riskami-kak-profi-i-zarabatyvayte-milliony
+=========================== logs ===========================
+navigating to "https://vc.ru/u/406524-delo/634645-pokupka-ili-prodazha-biznesa-upravlyayte-riskami-kak-profi-i-zarabatyvayte-milliony", waiting until "load"
+============================================================
+2023-03-14 23:11:40,987 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/u/1333711-crypto-talking-head/634644-citaty-pro-kriptu-tayler-uinklvoss
+=========================== logs ===========================
+navigating to "https://vc.ru/u/1333711-crypto-talking-head/634644-citaty-pro-kriptu-tayler-uinklvoss", waiting until "load"
+============================================================
+2023-03-14 23:11:41,078 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/u/1543085-volhv-iz-budushchego/634301-rezyume-predydushchih-7-besed-ch-3
+=========================== logs ===========================
+navigating to "https://vc.ru/u/1543085-volhv-iz-budushchego/634301-rezyume-predydushchih-7-besed-ch-3", waiting until "load"
+============================================================
+2023-03-14 23:11:41,177 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/u/1304683-nft-crypto-news/634636-meta-prekrashchaet-podderzhku-nft
+=========================== logs ===========================
+navigating to "https://vc.ru/u/1304683-nft-crypto-news/634636-meta-prekrashchaet-podderzhku-nft", waiting until "load"
+============================================================
+2023-03-14 23:11:41,267 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/u/1585630-natalia-glushakova/634635-kompanii-proekty-komandy-kak-sistema
+=========================== logs ===========================
+navigating to "https://vc.ru/u/1585630-natalia-glushakova/634635-kompanii-proekty-komandy-kak-sistema", waiting until "load"
+============================================================
+2023-03-14 23:11:41,367 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/u/1304683-nft-crypto-news/634633-bitkoin-podnimaetsya-vyshe-26-000-na-fone-novyh-dannyh-po-inflyacii
+=========================== logs ===========================
+navigating to "https://vc.ru/u/1304683-nft-crypto-news/634633-bitkoin-podnimaetsya-vyshe-26-000-na-fone-novyh-dannyh-po-inflyacii", waiting until "load"
+============================================================
+2023-03-14 23:11:41,473 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/s/1220150-reklama-vkontakte-dlya-pvz/634621-chem-nedovolny-vladelcy-punktov-vydachi-vayldberriz
+=========================== logs ===========================
+navigating to "https://vc.ru/s/1220150-reklama-vkontakte-dlya-pvz/634621-chem-nedovolny-vladelcy-punktov-vydachi-vayldberriz", waiting until "load"
+============================================================
+2023-03-14 23:11:41,562 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/u/1410790-olga-getcourse-axl/634627-supernovost-dnya-dlya-polzovateley-getkurs
+=========================== logs ===========================
+navigating to "https://vc.ru/u/1410790-olga-getcourse-axl/634627-supernovost-dnya-dlya-polzovateley-getkurs", waiting until "load"
+============================================================
+2023-03-14 23:11:41,657 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/ml/634590-openai-predstavila-model-gpt-4-kotoraya-mozhet-ponimat-ne-tolko-tekst-no-i-izobrazheniya
+=========================== logs ===========================
+navigating to "https://vc.ru/ml/634590-openai-predstavila-model-gpt-4-kotoraya-mozhet-ponimat-ne-tolko-tekst-no-i-izobrazheniya", waiting until "load"
+============================================================
+2023-03-14 23:11:41,752 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/services/634622-startap-anthropic-zapustil-novyy-chat-bot-claude-s-funkciyami-ii
+=========================== logs ===========================
+navigating to "https://vc.ru/services/634622-startap-anthropic-zapustil-novyy-chat-bot-claude-s-funkciyami-ii", waiting until "load"
+============================================================
+2023-03-14 23:11:41,836 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/u/1377388-kozhevnikova-kseniya-alekseevna/634620-chto-takoe-kriptovalyuty-obyasnyaem-prostymi-slovami
+=========================== logs ===========================
+navigating to "https://vc.ru/u/1377388-kozhevnikova-kseniya-alekseevna/634620-chto-takoe-kriptovalyuty-obyasnyaem-prostymi-slovami", waiting until "load"
+============================================================
+2023-03-14 23:11:41,939 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/u/1357493-bestcryptobro/634618-zarabatyvayte-s-pomoshchyu-telegram-bota-dlya-arbitrazha-kriptovalyut-mezhdu-binance-i-bestchange
+=========================== logs ===========================
+navigating to "https://vc.ru/u/1357493-bestcryptobro/634618-zarabatyvayte-s-pomoshchyu-telegram-bota-dlya-arbitrazha-kriptovalyut-mezhdu-binance-i-bestchange", waiting until "load"
+============================================================
+2023-03-14 23:11:42,028 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/u/1469475-svetlana-petrova/634614-saga-o-dividendah
+=========================== logs ===========================
+navigating to "https://vc.ru/u/1469475-svetlana-petrova/634614-saga-o-dividendah", waiting until "load"
+============================================================
+2023-03-14 23:11:42,117 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/s/1355375-ekosistema-mnogo-klientov-rf/634617-chat-boty-odin-iz-trendov-v-marketinge-etogo-goda
+=========================== logs ===========================
+navigating to "https://vc.ru/s/1355375-ekosistema-mnogo-klientov-rf/634617-chat-boty-odin-iz-trendov-v-marketinge-etogo-goda", waiting until "load"
+============================================================
+2023-03-14 23:11:42,208 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/s/1355375-ekosistema-mnogo-klientov-rf/634611-kakie-istochnika-trafika-ispolzovat-biznesu-v-2023
+=========================== logs ===========================
+navigating to "https://vc.ru/s/1355375-ekosistema-mnogo-klientov-rf/634611-kakie-istochnika-trafika-ispolzovat-biznesu-v-2023", waiting until "load"
+============================================================
+2023-03-14 23:11:42,305 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/crypto/634478-obzor-proekta-chia
+=========================== logs ===========================
+navigating to "https://vc.ru/crypto/634478-obzor-proekta-chia", waiting until "load"
+============================================================
+2023-03-14 23:11:42,398 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/u/1458907-yurist-pro/634607-gossluzhashchie-pereydut-na-rossiyskie-messendzhery
+=========================== logs ===========================
+navigating to "https://vc.ru/u/1458907-yurist-pro/634607-gossluzhashchie-pereydut-na-rossiyskie-messendzhery", waiting until "load"
+============================================================
+2023-03-14 23:11:42,500 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/finance/634606-spb-birzha-generator-finansovyh-habov
+=========================== logs ===========================
+navigating to "https://vc.ru/finance/634606-spb-birzha-generator-finansovyh-habov", waiting until "load"
+============================================================
+2023-03-14 23:11:42,592 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/hr/634604-kak-stat-liderom-svoego-startapa
+=========================== logs ===========================
+navigating to "https://vc.ru/hr/634604-kak-stat-liderom-svoego-startapa", waiting until "load"
+============================================================
+2023-03-14 23:11:42,681 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/u/1585435-orgreshenie/634602-effektivnost-rezultat
+=========================== logs ===========================
+navigating to "https://vc.ru/u/1585435-orgreshenie/634602-effektivnost-rezultat", waiting until "load"
+============================================================
+2023-03-14 23:11:42,775 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/design/634578-oy-teplenkaya-poshla-pochemu-dazhe-baku-dlya-dusha-nuzhen-dizayn
+=========================== logs ===========================
+navigating to "https://vc.ru/design/634578-oy-teplenkaya-poshla-pochemu-dazhe-baku-dlya-dusha-nuzhen-dizayn", waiting until "load"
+============================================================
+2023-03-14 23:11:42,873 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/u/1290201-litberi/634596-opekun-pytalsya-otdat-menya-gadkomu-lordu-no-ya-ne-pozhelala-bezropotno-idti-zamuzh
+=========================== logs ===========================
+navigating to "https://vc.ru/u/1290201-litberi/634596-opekun-pytalsya-otdat-menya-gadkomu-lordu-no-ya-ne-pozhelala-bezropotno-idti-zamuzh", waiting until "load"
+============================================================
+2023-03-14 23:11:42,960 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/s/1480967-fenshop-poleznye-i-ne-ochen/634589-stala-izvestna-data-vyhoda-sony-playstation-6
+=========================== logs ===========================
+navigating to "https://vc.ru/s/1480967-fenshop-poleznye-i-ne-ochen/634589-stala-izvestna-data-vyhoda-sony-playstation-6", waiting until "load"
+============================================================
+2023-03-14 23:11:43,052 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/u/1560476-ekaterina-tolkovskaya/634574-top-it-professiy-dlya-zhenshchin
+=========================== logs ===========================
+navigating to "https://vc.ru/u/1560476-ekaterina-tolkovskaya/634574-top-it-professiy-dlya-zhenshchin", waiting until "load"
+============================================================
+2023-03-14 23:11:43,142 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/s/1147039-vakansii-v-it-i-digital/634588-metodist-onlayn-kursov
+=========================== logs ===========================
+navigating to "https://vc.ru/s/1147039-vakansii-v-it-i-digital/634588-metodist-onlayn-kursov", waiting until "load"
+============================================================
+2023-03-14 23:11:43,237 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/u/1530119-bigdata/634583-prichiny-po-kotorym-ne-poluchaetsya-vyuchit-angliyskiy-yazyk
+=========================== logs ===========================
+navigating to "https://vc.ru/u/1530119-bigdata/634583-prichiny-po-kotorym-ne-poluchaetsya-vyuchit-angliyskiy-yazyk", waiting until "load"
+============================================================
+2023-03-14 23:11:43,330 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/u/1566089-margarita-moreva/634547-kak-nas-chut-ne-posadili-v-tyurmu-iz-za-sovremennogo-iskusstva
+=========================== logs ===========================
+navigating to "https://vc.ru/u/1566089-margarita-moreva/634547-kak-nas-chut-ne-posadili-v-tyurmu-iz-za-sovremennogo-iskusstva", waiting until "load"
+============================================================
+2023-03-14 23:11:43,420 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/u/1335493-feeno/634584-osnovnye-oshibki-v-nachale-vedeniya-biznesa-na-marketpleysah
+=========================== logs ===========================
+navigating to "https://vc.ru/u/1335493-feeno/634584-osnovnye-oshibki-v-nachale-vedeniya-biznesa-na-marketpleysah", waiting until "load"
+============================================================
+2023-03-14 23:11:43,517 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/u/1585248-nikita-savelev/634585-obrashchenie-k-sbermegamarketu
+=========================== logs ===========================
+navigating to "https://vc.ru/u/1585248-nikita-savelev/634585-obrashchenie-k-sbermegamarketu", waiting until "load"
+============================================================
+2023-03-14 23:11:43,614 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/crypto/634572-bankovskiy-krizis-v-ssha-ne-vina-kriptovalyuty
+=========================== logs ===========================
+navigating to "https://vc.ru/crypto/634572-bankovskiy-krizis-v-ssha-ne-vina-kriptovalyuty", waiting until "load"
+============================================================
+2023-03-14 23:11:43,699 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/u/1585252-prometey/634577-kak-ya-prishel-v-digital
+=========================== logs ===========================
+navigating to "https://vc.ru/u/1585252-prometey/634577-kak-ya-prishel-v-digital", waiting until "load"
+============================================================
+2023-03-14 23:11:43,792 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/u/592027-georgiy-bazin/634566-nekotorye-nyuansy-podbora-sezonnyh-masel-dlya-avto
+=========================== logs ===========================
+navigating to "https://vc.ru/u/592027-georgiy-bazin/634566-nekotorye-nyuansy-podbora-sezonnyh-masel-dlya-avto", waiting until "load"
+============================================================
+2023-03-14 23:11:43,888 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/u/1585252-prometey/634576-etim-lid-magnitom-ty-krashish-svoi-prodazhi
+=========================== logs ===========================
+navigating to "https://vc.ru/u/1585252-prometey/634576-etim-lid-magnitom-ty-krashish-svoi-prodazhi", waiting until "load"
+============================================================
+2023-03-14 23:11:43,973 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/u/1585252-prometey/634571-kto-avtor-i-chto-est-na-kanale
+=========================== logs ===========================
+navigating to "https://vc.ru/u/1585252-prometey/634571-kto-avtor-i-chto-est-na-kanale", waiting until "load"
+============================================================
+2023-03-14 23:11:44,063 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/avito/634538-kak-analitiki-sekonomili-resursy-komandy-ubediv-ne-vkladyvatsya-v-rost-klyuchevoy-metriki
+=========================== logs ===========================
+navigating to "https://vc.ru/avito/634538-kak-analitiki-sekonomili-resursy-komandy-ubediv-ne-vkladyvatsya-v-rost-klyuchevoy-metriki", waiting until "load"
+============================================================
+2023-03-14 23:11:44,154 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/u/1424172-ruslan-bolotov-massazhist/634568-massazh-pri-neyromiozite
+=========================== logs ===========================
+navigating to "https://vc.ru/u/1424172-ruslan-bolotov-massazhist/634568-massazh-pri-neyromiozite", waiting until "load"
+============================================================
+2023-03-14 23:11:44,248 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/flood/634565-spacex-vzloman
+=========================== logs ===========================
+navigating to "https://vc.ru/flood/634565-spacex-vzloman", waiting until "load"
+============================================================
+2023-03-14 23:11:44,338 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/u/1243862-shkola-modnogo-biznesa/634558-kak-zarabatyvat-ot-300-000-rubley-v-mesyac-na-brende-detskoy-odezhdy
+=========================== logs ===========================
+navigating to "https://vc.ru/u/1243862-shkola-modnogo-biznesa/634558-kak-zarabatyvat-ot-300-000-rubley-v-mesyac-na-brende-detskoy-odezhdy", waiting until "load"
+============================================================
+2023-03-14 23:11:44,436 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/u/1585227-elena-kravchenko/634562-ne-v-brov-a-v-mozg-prostymi-slovami-o-tom-kak-rabotaet-neyromarketing-i-zachem-on-biznesu
+=========================== logs ===========================
+navigating to "https://vc.ru/u/1585227-elena-kravchenko/634562-ne-v-brov-a-v-mozg-prostymi-slovami-o-tom-kak-rabotaet-neyromarketing-i-zachem-on-biznesu", waiting until "load"
+============================================================
+2023-03-14 23:11:44,529 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/crypto/634549-na-fone-bankovskogo-krizisa-v-ssha-obem-torgov-opcionami-na-bitkoin-dostig-maksimuma-za-22-mesyaca
+=========================== logs ===========================
+navigating to "https://vc.ru/crypto/634549-na-fone-bankovskogo-krizisa-v-ssha-obem-torgov-opcionami-na-bitkoin-dostig-maksimuma-za-22-mesyaca", waiting until "load"
+============================================================
+2023-03-14 23:11:44,625 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/claim/634551-ohhh-uzh-etot-avito
+=========================== logs ===========================
+navigating to "https://vc.ru/claim/634551-ohhh-uzh-etot-avito", waiting until "load"
+============================================================
+2023-03-14 23:11:44,716 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/u/1543085-volhv-iz-budushchego/634297-rezyume-predydushchih-7-besed-ch-2
+=========================== logs ===========================
+navigating to "https://vc.ru/u/1543085-volhv-iz-budushchego/634297-rezyume-predydushchih-7-besed-ch-2", waiting until "load"
+============================================================
+2023-03-14 23:11:44,807 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/u/1554703-kirill-sch/634485-kak-prodvigat-socialnye-i-ekologicheskie-proekty
+=========================== logs ===========================
+navigating to "https://vc.ru/u/1554703-kirill-sch/634485-kak-prodvigat-socialnye-i-ekologicheskie-proekty", waiting until "load"
+============================================================
+2023-03-14 23:11:44,900 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/migrate/631700-velikobritaniya-zapuskaet-novuyu-vizu-dlya-osnovateley-biznesov-podat-na-vizu-smogut-opytnye-i-nachinayushchie-predprinimateli
+=========================== logs ===========================
+navigating to "https://vc.ru/migrate/631700-velikobritaniya-zapuskaet-novuyu-vizu-dlya-osnovateley-biznesov-podat-na-vizu-smogut-opytnye-i-nachinayushchie-predprinimateli", waiting until "load"
+============================================================
+2023-03-14 23:11:45,005 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/u/1532890-ayti-nebo/634559-kakie-sushchestvuyut-tipy-kriptovalyut
+=========================== logs ===========================
+navigating to "https://vc.ru/u/1532890-ayti-nebo/634559-kakie-sushchestvuyut-tipy-kriptovalyut", waiting until "load"
+============================================================
+2023-03-14 23:11:45,113 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/u/1409500-aptumi/634554-lichnyy-opyt-kak-dobitsya-povysheniya-studentu
+=========================== logs ===========================
+navigating to "https://vc.ru/u/1409500-aptumi/634554-lichnyy-opyt-kak-dobitsya-povysheniya-studentu", waiting until "load"
+============================================================
+2023-03-14 23:11:45,211 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/u/1575204-aleksandr-nevzorov/634555-zakaz-stihov-k-prazdniku
+=========================== logs ===========================
+navigating to "https://vc.ru/u/1575204-aleksandr-nevzorov/634555-zakaz-stihov-k-prazdniku", waiting until "load"
+============================================================
+2023-03-14 23:11:45,322 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/u/1584894-irina/634550-dva-pogranichnyh-tipa-sotrudnikov-v-it
+=========================== logs ===========================
+navigating to "https://vc.ru/u/1584894-irina/634550-dva-pogranichnyh-tipa-sotrudnikov-v-it", waiting until "load"
+============================================================
+2023-03-14 23:11:45,422 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/u/1361257-medmedia/633536-fizicheskaya-aktivnost-i-rak
+=========================== logs ===========================
+navigating to "https://vc.ru/u/1361257-medmedia/633536-fizicheskaya-aktivnost-i-rak", waiting until "load"
+============================================================
+2023-03-14 23:11:45,536 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/finance/634540-krah-banka-silikonovoy-doliny-mozhet-sprovocirovat-begstvo-iz-regionalnyh-bankov-ssha
+=========================== logs ===========================
+navigating to "https://vc.ru/finance/634540-krah-banka-silikonovoy-doliny-mozhet-sprovocirovat-begstvo-iz-regionalnyh-bankov-ssha", waiting until "load"
+============================================================
+2023-03-14 23:11:45,627 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/u/1578780-vladislav-sannikov-x-ypa/634537-dobryy-den-est-vakansiya-s-vashim-stekom-interesno-ili-zachem-razrabotchiku-obshchatsya-s-rekruterom
+=========================== logs ===========================
+navigating to "https://vc.ru/u/1578780-vladislav-sannikov-x-ypa/634537-dobryy-den-est-vakansiya-s-vashim-stekom-interesno-ili-zachem-razrabotchiku-obshchatsya-s-rekruterom", waiting until "load"
+============================================================
+2023-03-14 23:11:45,724 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/u/1344442-aleksandra-kovalski/634546-top-5-luchshih-fotostokov-dostupnyh-v-rossii
+=========================== logs ===========================
+navigating to "https://vc.ru/u/1344442-aleksandra-kovalski/634546-top-5-luchshih-fotostokov-dostupnyh-v-rossii", waiting until "load"
+============================================================
+2023-03-14 23:11:45,827 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/claim/634280-ozon-tovar-v-arendu-za-schet-prodavca-ili-kak-moi-krokusy-poimela-vsya-shkola
+=========================== logs ===========================
+navigating to "https://vc.ru/claim/634280-ozon-tovar-v-arendu-za-schet-prodavca-ili-kak-moi-krokusy-poimela-vsya-shkola", waiting until "load"
+============================================================
+2023-03-14 23:11:45,915 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/u/886910-tagir-hayrutdinov/634433-dlya-chego-nuzhen-profil-v-linkedin
+=========================== logs ===========================
+navigating to "https://vc.ru/u/886910-tagir-hayrutdinov/634433-dlya-chego-nuzhen-profil-v-linkedin", waiting until "load"
+============================================================
+2023-03-14 23:11:46,012 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/u/1550934-anastasiya-gorbacheva/634543-kto-pridumal-letayushchie-drony
+=========================== logs ===========================
+navigating to "https://vc.ru/u/1550934-anastasiya-gorbacheva/634543-kto-pridumal-letayushchie-drony", waiting until "load"
+============================================================
+2023-03-14 23:11:46,114 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/u/1550934-anastasiya-gorbacheva/634541-palka-dlya-selfi
+=========================== logs ===========================
+navigating to "https://vc.ru/u/1550934-anastasiya-gorbacheva/634541-palka-dlya-selfi", waiting until "load"
+============================================================
+2023-03-14 23:11:46,207 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/u/1550934-anastasiya-gorbacheva/634536-biznes-model-montgomeri
+=========================== logs ===========================
+navigating to "https://vc.ru/u/1550934-anastasiya-gorbacheva/634536-biznes-model-montgomeri", waiting until "load"
+============================================================
+2023-03-14 23:11:46,304 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/crypto/634519-cena-bitkoyna-prevyshaet-26-tysyach-dollarov-poskolku-inflyaciya-v-ssha-v-fevrale-zamedlilas-do-6
+=========================== logs ===========================
+navigating to "https://vc.ru/crypto/634519-cena-bitkoyna-prevyshaet-26-tysyach-dollarov-poskolku-inflyaciya-v-ssha-v-fevrale-zamedlilas-do-6", waiting until "load"
+============================================================
+2023-03-14 23:11:46,405 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/u/1085030-dmitriy-rey/634533-federalnaya-programma-mama-predprinimatel
+=========================== logs ===========================
+navigating to "https://vc.ru/u/1085030-dmitriy-rey/634533-federalnaya-programma-mama-predprinimatel", waiting until "load"
+============================================================
+2023-03-14 23:11:46,501 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/u/1533236-elena-designerka/634529-tekst-na-slayde-ili-kak-sdelat-slayd-chitaemym
+=========================== logs ===========================
+navigating to "https://vc.ru/u/1533236-elena-designerka/634529-tekst-na-slayde-ili-kak-sdelat-slayd-chitaemym", waiting until "load"
+============================================================
+2023-03-14 23:11:46,599 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/u/1584824-website-development/634532-digitale-wissens-dialogplattformen
+=========================== logs ===========================
+navigating to "https://vc.ru/u/1584824-website-development/634532-digitale-wissens-dialogplattformen", waiting until "load"
+============================================================
+2023-03-14 23:11:46,697 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/finance/634530-kak-rasschitat-i-uvelichit-rentabelnost-ponyatnye-raschety-dlya-nachinayushchih
+=========================== logs ===========================
+navigating to "https://vc.ru/finance/634530-kak-rasschitat-i-uvelichit-rentabelnost-ponyatnye-raschety-dlya-nachinayushchih", waiting until "load"
+============================================================
+2023-03-14 23:11:46,795 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/u/1371873-sequoia-holdings/634490-kak-my-prishli-k-prodazhe-kofe-na-marketpleysah
+=========================== logs ===========================
+navigating to "https://vc.ru/u/1371873-sequoia-holdings/634490-kak-my-prishli-k-prodazhe-kofe-na-marketpleysah", waiting until "load"
+============================================================
+2023-03-14 23:11:46,888 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/u/1585034-larisa-arslanova/634524-a-razgovorov-to-bylo-novyy-vzglyad-na-prichiny-nepopulyarnosti-clubhouse-v-rossii
+=========================== logs ===========================
+navigating to "https://vc.ru/u/1585034-larisa-arslanova/634524-a-razgovorov-to-bylo-novyy-vzglyad-na-prichiny-nepopulyarnosti-clubhouse-v-rossii", waiting until "load"
+============================================================
+2023-03-14 23:11:46,977 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/u/1436363-roman-ranniy/634526-vot-i-bankovskomu-krizisu-konec-a-kto-sberbank-kupil-molodec-akcii-i-investicii
+=========================== logs ===========================
+navigating to "https://vc.ru/u/1436363-roman-ranniy/634526-vot-i-bankovskomu-krizisu-konec-a-kto-sberbank-kupil-molodec-akcii-i-investicii", waiting until "load"
+============================================================
+2023-03-14 23:11:47,069 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/u/867051-zoringer/634518-v-wildberries-rasprodazha-pvz
+=========================== logs ===========================
+navigating to "https://vc.ru/u/867051-zoringer/634518-v-wildberries-rasprodazha-pvz", waiting until "load"
+============================================================
+2023-03-14 23:11:47,157 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/u/1344778-oleg-sidorov/634521-smeta-na-kapitalnyy-remont-polikliniki
+=========================== logs ===========================
+navigating to "https://vc.ru/u/1344778-oleg-sidorov/634521-smeta-na-kapitalnyy-remont-polikliniki", waiting until "load"
+============================================================
+2023-03-14 23:11:47,251 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/finance/634516-opyat-poshli-v-rost-a-kak-zhe-finansovye-problemy-ssha
+=========================== logs ===========================
+navigating to "https://vc.ru/finance/634516-opyat-poshli-v-rost-a-kak-zhe-finansovye-problemy-ssha", waiting until "load"
+============================================================
+2023-03-14 23:11:47,349 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/life/634372-zametka-o-mvp-v-lichnoy-zhizni
+=========================== logs ===========================
+navigating to "https://vc.ru/life/634372-zametka-o-mvp-v-lichnoy-zhizni", waiting until "load"
+============================================================
+2023-03-14 23:11:47,450 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/trade/634503-sbermarket-zapustil-dostavku-iz-zotman-pizza-v-moskve
+=========================== logs ===========================
+navigating to "https://vc.ru/trade/634503-sbermarket-zapustil-dostavku-iz-zotman-pizza-v-moskve", waiting until "load"
+============================================================
+2023-03-14 23:12:01,618 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/u/1344778-oleg-sidorov/634520-smeta-na-kapitalnyy-remont-polikliniki
+=========================== logs ===========================
+navigating to "https://vc.ru/u/1344778-oleg-sidorov/634520-smeta-na-kapitalnyy-remont-polikliniki", waiting until "load"
+============================================================
+2023-03-14 23:12:07,714 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/marketing/634513-kuda-idet-rynok-podkastov-auditoriya-dengi-reklamodateli
+=========================== logs ===========================
+navigating to "https://vc.ru/marketing/634513-kuda-idet-rynok-podkastov-auditoriya-dengi-reklamodateli", waiting until "load"
+============================================================
+2023-03-14 23:12:13,825 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/growth/634514-analitika-versus-avtomatizaciya-chto-vedet-k-rostu
+=========================== logs ===========================
+navigating to "https://vc.ru/growth/634514-analitika-versus-avtomatizaciya-chto-vedet-k-rostu", waiting until "load"
+============================================================
+2023-03-14 23:12:24,762 INFO Произошла ошибка при загрузке страницы net::ERR_NETWORK_CHANGED at https://vc.ru/u/1570433-ekaterina-alekseeva/632427-dizaynerskie-ukrasheniya-sozdayut-chuvstvennyy-stil-i-nastroenie
+=========================== logs ===========================
+navigating to "https://vc.ru/u/1570433-ekaterina-alekseeva/632427-dizaynerskie-ukrasheniya-sozdayut-chuvstvennyy-stil-i-nastroenie", waiting until "load"
+============================================================
+2023-03-14 23:12:32,878 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/pochta/634488-pochta-zapustila-srochnuyu-dostavku-iz-otdeleniy-vo-vseh-gorodah-millionnikah
+=========================== logs ===========================
+navigating to "https://vc.ru/pochta/634488-pochta-zapustila-srochnuyu-dostavku-iz-otdeleniy-vo-vseh-gorodah-millionnikah", waiting until "load"
+============================================================
+2023-03-14 23:12:38,974 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/s/sokr/633741-novosti-za-14-marta-2023-goda-korotko-o-glavnom
+=========================== logs ===========================
+navigating to "https://vc.ru/s/sokr/633741-novosti-za-14-marta-2023-goda-korotko-o-glavnom", waiting until "load"
+============================================================
+2023-03-14 23:12:45,074 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/pik/634481-detskaya-i-socialnaya-infrastruktura-kak-kriteriy-vybora-kvartiry-novyy-podhod-pik
+=========================== logs ===========================
+navigating to "https://vc.ru/pik/634481-detskaya-i-socialnaya-infrastruktura-kak-kriteriy-vybora-kvartiry-novyy-podhod-pik", waiting until "load"
+============================================================
+2023-03-14 23:12:51,171 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/u/1373491-fpg-profit/634487-anastasiya-ogor-v-formate-distancionnoy-raboty-slozhno-sozdavat-i-podderzhivat-korporativnuyu-kulturu
+=========================== logs ===========================
+navigating to "https://vc.ru/u/1373491-fpg-profit/634487-anastasiya-ogor-v-formate-distancionnoy-raboty-slozhno-sozdavat-i-podderzhivat-korporativnuyu-kulturu", waiting until "load"
+============================================================
+2023-03-14 23:12:57,292 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/ipquorum/634482-aleksandra-bakka-hudozhnik-dolzhen-zarabatyvat-tem-chto-on-umeet-delat
+=========================== logs ===========================
+navigating to "https://vc.ru/ipquorum/634482-aleksandra-bakka-hudozhnik-dolzhen-zarabatyvat-tem-chto-on-umeet-delat", waiting until "load"
+============================================================
+2023-03-14 23:13:01,971 INFO Произошла ошибка при запуске Telethon. Connection to Telegram failed 5 time(s) 
+2023-03-14 23:19:48,494 INFO Программа запущена
+2023-03-14 23:19:48,780 INFO Планировщик запущен
+2023-03-15 00:03:02,919 INFO Произошла ошибка при запуске Telethon. Connection to Telegram failed 5 time(s) 
+2023-03-15 01:50:39,717 INFO Программа запущена
+2023-03-15 01:50:41,783 INFO Планировщик запущен
+2023-03-15 02:57:14,868 INFO Программа запущена
+2023-03-15 02:57:15,221 INFO Планировщик запущен
+2023-03-15 02:58:05,238 INFO Программа запущена
+2023-03-15 02:58:05,554 INFO Планировщик запущен
+2023-03-15 02:58:38,951 INFO Программа запущена
+2023-03-15 02:58:39,251 INFO Планировщик запущен
+2023-03-15 03:00:05,912 INFO Произошла ошибка при загрузке страницы Navigation failed because page was closed!
+=========================== logs ===========================
+navigating to "https://www.kommersant.ru/lenta?from=all_lenta", waiting until "load"
+============================================================
+2023-03-15 03:00:10,287 INFO Произошла ошибка при загрузке страницы Navigation failed because page was closed!
+=========================== logs ===========================
+navigating to "https://vc.ru/new/all", waiting until "load"
+============================================================
+2023-03-16 01:26:51,146 INFO Программа запущена
+2023-03-16 01:26:53,543 INFO Планировщик запущен
+2023-03-16 01:27:11,154 INFO Программа запущена
+2023-03-16 01:27:11,438 INFO Планировщик запущен
+2023-03-16 01:28:28,998 INFO Программа запущена
+2023-03-16 01:28:29,337 INFO Планировщик запущен
+2023-03-16 01:29:25,803 INFO Программа запущена
+2023-03-16 01:29:26,137 INFO Планировщик запущен
+2023-03-16 01:30:50,677 INFO Программа запущена
+2023-03-16 01:30:50,948 INFO Планировщик запущен
+2023-03-16 01:34:31,940 INFO Программа запущена
+2023-03-16 01:34:32,262 INFO Планировщик запущен
+2023-03-16 01:36:42,228 INFO Программа запущена
+2023-03-16 01:36:42,570 INFO Планировщик запущен
+2023-03-16 01:38:11,113 INFO Программа запущена
+2023-03-16 01:38:11,425 INFO Планировщик запущен
+2023-03-16 01:38:28,400 INFO Программа запущена
+2023-03-16 01:38:28,665 INFO Планировщик запущен
+2023-03-16 01:41:55,252 INFO Программа запущена
+2023-03-16 01:41:55,518 INFO Планировщик запущен
+2023-03-16 01:42:48,665 INFO Программа запущена
+2023-03-16 01:42:48,978 INFO Планировщик запущен
+2023-03-16 01:48:58,896 INFO Программа запущена
+2023-03-16 01:48:59,168 INFO Планировщик запущен
+2023-03-16 01:49:11,312 INFO Произошла ошибка при загрузке страницы Navigation failed because page was closed!
+=========================== logs ===========================
+navigating to "https://www.kommersant.ru/lenta?from=all_lenta", waiting until "load"
+============================================================
+2023-03-16 01:49:15,024 INFO Произошла ошибка при загрузке страницы Navigation failed because page was closed!
+=========================== logs ===========================
+navigating to "https://vc.ru/new/all", waiting until "load"
+============================================================
+2023-03-16 01:51:36,515 INFO Программа запущена
+2023-03-16 01:51:50,516 INFO Программа запущена
+2023-03-16 01:51:50,766 INFO Планировщик запущен
+2023-03-16 01:53:25,575 INFO Программа запущена
+2023-03-16 01:53:26,006 INFO Планировщик запущен
+2023-03-16 01:59:02,748 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://www.kommersant.ru//doc/5875642
+=========================== logs ===========================
+navigating to "https://www.kommersant.ru//doc/5875642", waiting until "load"
+============================================================
+2023-03-16 01:59:02,822 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://www.kommersant.ru//doc/5875641
+=========================== logs ===========================
+navigating to "https://www.kommersant.ru//doc/5875641", waiting until "load"
+============================================================
+2023-03-16 01:59:02,861 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://www.kommersant.ru//doc/5875623
+=========================== logs ===========================
+navigating to "https://www.kommersant.ru//doc/5875623", waiting until "load"
+============================================================
+2023-03-16 01:59:02,918 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://www.kommersant.ru//doc/5875532
+=========================== logs ===========================
+navigating to "https://www.kommersant.ru//doc/5875532", waiting until "load"
+============================================================
+2023-03-16 01:59:02,961 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://www.kommersant.ru//doc/5875611
+=========================== logs ===========================
+navigating to "https://www.kommersant.ru//doc/5875611", waiting until "load"
+============================================================
+2023-03-16 01:59:03,003 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://www.kommersant.ru//doc/5875614
+=========================== logs ===========================
+navigating to "https://www.kommersant.ru//doc/5875614", waiting until "load"
+============================================================
+2023-03-16 01:59:03,052 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://www.kommersant.ru//doc/5875627
+=========================== logs ===========================
+navigating to "https://www.kommersant.ru//doc/5875627", waiting until "load"
+============================================================
+2023-03-16 01:59:03,108 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://www.kommersant.ru//doc/5875604
+=========================== logs ===========================
+navigating to "https://www.kommersant.ru//doc/5875604", waiting until "load"
+============================================================
+2023-03-16 01:59:03,157 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://www.kommersant.ru//doc/5875625
+=========================== logs ===========================
+navigating to "https://www.kommersant.ru//doc/5875625", waiting until "load"
+============================================================
+2023-03-16 01:59:03,209 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://www.kommersant.ru//doc/5875615
+=========================== logs ===========================
+navigating to "https://www.kommersant.ru//doc/5875615", waiting until "load"
+============================================================
+2023-03-16 01:59:03,272 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://www.kommersant.ru//doc/5875608
+=========================== logs ===========================
+navigating to "https://www.kommersant.ru//doc/5875608", waiting until "load"
+============================================================
+2023-03-16 01:59:03,317 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://www.kommersant.ru//doc/5875209
+=========================== logs ===========================
+navigating to "https://www.kommersant.ru//doc/5875209", waiting until "load"
+============================================================
+2023-03-16 01:59:03,366 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://www.kommersant.ru//doc/5875501
+=========================== logs ===========================
+navigating to "https://www.kommersant.ru//doc/5875501", waiting until "load"
+============================================================
+2023-03-16 01:59:03,426 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://www.kommersant.ru//doc/5875616
+=========================== logs ===========================
+navigating to "https://www.kommersant.ru//doc/5875616", waiting until "load"
+============================================================
+2023-03-16 01:59:03,484 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://www.kommersant.ru//doc/5875541
+=========================== logs ===========================
+navigating to "https://www.kommersant.ru//doc/5875541", waiting until "load"
+============================================================
+2023-03-16 01:59:03,536 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://www.kommersant.ru//doc/5875607
+=========================== logs ===========================
+navigating to "https://www.kommersant.ru//doc/5875607", waiting until "load"
+============================================================
+2023-03-16 01:59:03,593 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://www.kommersant.ru//doc/5875610
+=========================== logs ===========================
+navigating to "https://www.kommersant.ru//doc/5875610", waiting until "load"
+============================================================
+2023-03-16 01:59:03,653 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://www.kommersant.ru//doc/5875512
+=========================== logs ===========================
+navigating to "https://www.kommersant.ru//doc/5875512", waiting until "load"
+============================================================
+2023-03-16 01:59:03,706 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://www.kommersant.ru//doc/5875612
+=========================== logs ===========================
+navigating to "https://www.kommersant.ru//doc/5875612", waiting until "load"
+============================================================
+2023-03-16 01:59:03,760 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://www.kommersant.ru//doc/5875544
+=========================== logs ===========================
+navigating to "https://www.kommersant.ru//doc/5875544", waiting until "load"
+============================================================
+2023-03-16 01:59:03,822 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://www.kommersant.ru//doc/5875193
+=========================== logs ===========================
+navigating to "https://www.kommersant.ru//doc/5875193", waiting until "load"
+============================================================
+2023-03-16 01:59:03,908 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://www.kommersant.ru//doc/5875609
+=========================== logs ===========================
+navigating to "https://www.kommersant.ru//doc/5875609", waiting until "load"
+============================================================
+2023-03-16 01:59:03,957 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://www.kommersant.ru//doc/5875579
+=========================== logs ===========================
+navigating to "https://www.kommersant.ru//doc/5875579", waiting until "load"
+============================================================
+2023-03-16 01:59:04,012 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://www.kommersant.ru//doc/5875559
+=========================== logs ===========================
+navigating to "https://www.kommersant.ru//doc/5875559", waiting until "load"
+============================================================
+2023-03-16 01:59:04,064 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://www.kommersant.ru//doc/5875586
+=========================== logs ===========================
+navigating to "https://www.kommersant.ru//doc/5875586", waiting until "load"
+============================================================
+2023-03-16 01:59:04,117 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://www.kommersant.ru//doc/5875588
+=========================== logs ===========================
+navigating to "https://www.kommersant.ru//doc/5875588", waiting until "load"
+============================================================
+2023-03-16 01:59:04,174 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://www.kommersant.ru//doc/5875585
+=========================== logs ===========================
+navigating to "https://www.kommersant.ru//doc/5875585", waiting until "load"
+============================================================
+2023-03-16 01:59:04,223 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://www.kommersant.ru//doc/5875542
+=========================== logs ===========================
+navigating to "https://www.kommersant.ru//doc/5875542", waiting until "load"
+============================================================
+2023-03-16 01:59:04,270 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://www.kommersant.ru//doc/5875549
+=========================== logs ===========================
+navigating to "https://www.kommersant.ru//doc/5875549", waiting until "load"
+============================================================
+2023-03-16 01:59:04,323 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://www.kommersant.ru//doc/5875566
+=========================== logs ===========================
+navigating to "https://www.kommersant.ru//doc/5875566", waiting until "load"
+============================================================
+2023-03-16 01:59:04,373 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://www.kommersant.ru//doc/5875570
+=========================== logs ===========================
+navigating to "https://www.kommersant.ru//doc/5875570", waiting until "load"
+============================================================
+2023-03-16 01:59:04,427 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://www.kommersant.ru//doc/5875519
+=========================== logs ===========================
+navigating to "https://www.kommersant.ru//doc/5875519", waiting until "load"
+============================================================
+2023-03-16 01:59:04,479 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://www.kommersant.ru//doc/5875550
+=========================== logs ===========================
+navigating to "https://www.kommersant.ru//doc/5875550", waiting until "load"
+============================================================
+2023-03-16 01:59:12,120 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://vc.ru/new/all
+=========================== logs ===========================
+navigating to "https://vc.ru/new/all", waiting until "load"
+============================================================
+2023-03-16 01:59:19,001 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://www.rbc.ru/
+=========================== logs ===========================
+navigating to "https://www.rbc.ru/", waiting until "load"
+============================================================
+2023-03-16 01:59:21,008 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://www.change.org/ru
+=========================== logs ===========================
+navigating to "https://www.change.org/ru", waiting until "load"
+============================================================
+2023-03-16 01:59:21,078 INFO Произошла ошибка при загрузке страницы net::ERR_NAME_NOT_RESOLVED at https://www.change.org/petitions?selected=recent
+=========================== logs ===========================
+navigating to "https://www.change.org/petitions?selected=recent", waiting until "load"
+============================================================
+2023-03-16 01:59:35,628 INFO Произошла ошибка при запуске Telethon. Connection to Telegram failed 5 time(s) 
+2023-03-16 02:09:22,920 INFO Программа запущена
+2023-03-16 02:09:24,898 INFO Планировщик запущен
+2023-03-16 02:13:24,582 INFO Программа запущена
+2023-03-16 02:13:24,914 INFO Планировщик запущен
+2023-03-16 02:17:19,867 INFO Программа запущена
+2023-03-16 02:17:20,218 INFO Планировщик запущен
+2023-03-16 02:18:59,909 INFO Программа запущена
+2023-03-16 02:19:00,091 INFO _PytzShimTimezone.dst() missing 1 required positional argument: 'dt'
+2023-03-16 02:19:13,465 INFO Программа запущена
+2023-03-16 02:19:13,733 INFO Планировщик запущен
+2023-03-16 02:20:52,614 INFO Программа запущена
+2023-03-16 02:20:52,790 INFO 'datetime.datetime' object is not iterable
+2023-03-16 02:23:41,735 INFO Программа запущена
+2023-03-16 02:23:42,036 INFO Планировщик запущен
+2023-03-16 02:24:10,765 INFO Программа запущена
+2023-03-16 02:24:11,095 INFO Планировщик запущен
+2023-03-16 02:38:42,223 INFO Программа запущена
+2023-03-16 02:38:42,807 INFO Планировщик запущен
+2023-03-16 03:35:36,639 INFO Произошла ошибка при запуске Telethon. Connection to Telegram failed 5 time(s) 
+2023-03-16 04:09:14,411 INFO Произошла ошибка при загрузке страницы Navigation failed because page was closed!
+=========================== logs ===========================
+navigating to "https://www.kommersant.ru//doc/5875667", waiting until "load"
+============================================================
+2023-03-16 04:09:14,426 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-16 04:09:14,440 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-16 04:09:14,459 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-16 04:09:14,478 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-16 04:09:14,495 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-16 04:09:14,512 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-16 04:09:14,528 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-16 04:09:14,543 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-16 04:09:14,556 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-16 04:09:14,569 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-16 04:09:14,579 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-16 04:09:14,587 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-16 04:09:14,599 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-16 04:09:14,610 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-16 04:09:14,618 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-16 04:09:14,631 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-16 04:09:14,642 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-16 04:09:14,651 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-16 04:09:14,662 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-16 04:09:14,670 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-16 04:09:14,679 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-16 04:09:14,686 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-16 04:09:14,695 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-16 04:09:14,703 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-16 04:09:14,715 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-16 04:09:14,725 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-16 04:09:14,736 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-16 04:09:14,746 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-16 04:09:14,756 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-16 04:09:14,770 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-16 04:09:14,778 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-16 04:09:14,789 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-16 04:09:14,802 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-16 04:09:14,813 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-16 04:09:14,824 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-16 04:09:14,834 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-16 04:09:14,842 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-16 04:09:14,851 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-16 04:09:14,860 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-16 04:09:14,869 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-16 04:09:14,878 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-16 04:09:14,887 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-16 04:09:14,895 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-16 04:09:14,904 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-16 04:09:14,913 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-16 04:09:14,925 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-16 04:09:14,937 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-16 04:09:14,946 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-16 04:09:14,954 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-16 04:09:14,963 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-16 04:09:14,971 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-16 04:09:14,978 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-16 04:09:14,986 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-16 04:09:14,996 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-16 04:09:15,006 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-16 04:09:15,020 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-16 04:09:15,031 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-16 04:09:15,042 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-16 04:09:15,054 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-16 04:11:08,022 INFO Произошла ошибка при загрузке селектора с датой, на Change org Target closed
+=========================== logs ===========================
+waiting for locator(".corgi-1xbdly4").nth(1)
+============================================================
+2023-03-17 01:08:32,465 INFO Произошла ошибка при загрузке страницы net::ERR_CERT_AUTHORITY_INVALID at https://www.change.org/ru
+=========================== logs ===========================
+navigating to "https://www.change.org/ru", waiting until "load"
+============================================================
+2023-03-17 01:08:32,857 INFO Произошла ошибка при загрузке страницы net::ERR_CERT_AUTHORITY_INVALID at https://www.change.org/petitions?selected=recent
+=========================== logs ===========================
+navigating to "https://www.change.org/petitions?selected=recent", waiting until "load"
+============================================================
+2023-03-17 01:08:43,301 INFO Программа запущена
+2023-03-17 01:08:45,757 INFO Планировщик запущен
+2023-03-17 01:12:50,605 INFO Программа запущена
+2023-03-17 01:12:50,924 INFO Планировщик запущен
+2023-03-17 01:17:21,247 INFO Программа запущена
+2023-03-17 01:17:21,543 INFO Планировщик запущен
+2023-03-17 01:22:46,719 INFO Программа запущена
+2023-03-17 01:22:47,016 INFO Планировщик запущен
+2023-03-17 01:23:35,714 INFO Программа запущена
+2023-03-17 01:23:35,992 INFO Планировщик запущен
+2023-03-17 01:34:10,982 INFO Произошла ошибка при запуске Telethon. Connection to Telegram failed 5 time(s) 
+2023-03-17 02:03:51,001 INFO Программа запущена
+2023-03-17 02:03:51,286 INFO Планировщик запущен
+2023-03-17 03:26:07,547 INFO Программа запущена
+2023-03-17 03:26:10,623 INFO Планировщик запущен
+2023-03-17 03:33:29,533 INFO Программа запущена
+2023-03-17 03:33:29,812 INFO Планировщик запущен
+2023-03-17 03:33:30,254 INFO 'Dialog' object has no attribute 'username'
+2023-03-17 03:33:42,970 INFO Программа запущена
+2023-03-17 03:33:43,253 INFO Планировщик запущен
+2023-03-17 03:34:47,663 INFO Программа запущена
+2023-03-17 03:34:47,975 INFO Планировщик запущен
+2023-03-17 03:36:27,415 INFO Программа запущена
+2023-03-17 03:36:27,711 INFO Планировщик запущен
+2023-03-17 03:36:28,262 INFO 'Dialog' object has no attribute 'tile'
+2023-03-17 03:36:35,341 INFO Программа запущена
+2023-03-17 03:36:35,656 INFO Планировщик запущен
+2023-03-17 03:36:50,630 INFO Программа запущена
+2023-03-17 03:36:50,916 INFO Планировщик запущен
+2023-03-17 03:38:45,119 INFO Программа запущена
+2023-03-17 03:38:45,449 INFO Планировщик запущен
+2023-03-17 03:39:54,510 INFO Программа запущена
+2023-03-17 03:39:54,791 INFO Планировщик запущен
+2023-03-17 03:48:49,049 INFO Произошла ошибка при запуске Telethon. Connection to Telegram failed 5 time(s) 
+2023-03-17 04:02:35,297 INFO Программа запущена
+2023-03-17 04:02:35,584 INFO Планировщик запущен
+2023-03-17 04:02:35,592 INFO while parsing a block mapping
+  in "channels.yaml", line 1, column 1
+did not find expected key
+  in "channels.yaml", line 3, column 3
+2023-03-17 04:02:56,279 INFO Программа запущена
+2023-03-17 04:02:56,557 INFO Планировщик запущен
+2023-03-17 04:02:56,560 INFO while parsing a block mapping
+  in "channels.yaml", line 1, column 1
+did not find expected key
+  in "channels.yaml", line 3, column 3
+2023-03-17 04:03:07,540 INFO Программа запущена
+2023-03-17 04:03:07,830 INFO Планировщик запущен
+2023-03-17 04:03:07,832 INFO while parsing a block mapping
+  in "channels.yaml", line 1, column 1
+did not find expected key
+  in "channels.yaml", line 3, column 3
+2023-03-17 04:03:24,353 INFO Программа запущена
+2023-03-17 04:03:24,606 INFO Планировщик запущен
+2023-03-17 04:03:24,608 INFO while parsing a block mapping
+  in "channels.yaml", line 1, column 1
+did not find expected key
+  in "channels.yaml", line 3, column 3
+2023-03-17 04:04:31,187 INFO Программа запущена
+2023-03-17 04:04:31,458 INFO Планировщик запущен
+2023-03-17 04:04:31,460 INFO while parsing a block mapping
+  in "channels.yaml", line 1, column 1
+did not find expected key
+  in "channels.yaml", line 3, column 3
+2023-03-17 04:05:02,443 INFO Программа запущена
+2023-03-17 04:05:02,727 INFO Планировщик запущен
+2023-03-17 20:59:41,898 INFO Произошла ошибка при запуске Telethon. Connection to Telegram failed 5 time(s) 
+2023-03-18 02:26:35,568 INFO Программа запущена
+2023-03-18 02:26:35,834 INFO Планировщик запущен
+2023-03-18 02:26:58,568 INFO Программа запущена
+2023-03-18 02:26:58,837 INFO Планировщик запущен
+2023-03-18 02:49:52,912 INFO Произошла ошибка при запуске Telethon. Connection to Telegram failed 5 time(s) 
+2023-03-18 02:58:09,972 INFO Программа запущена
+2023-03-18 02:58:10,166 INFO Планировщик запущен
+2023-03-18 02:59:42,691 INFO Программа запущена
+2023-03-18 02:59:42,885 INFO Планировщик запущен
+2023-03-18 03:03:40,613 INFO Программа запущена
+2023-03-18 03:03:40,813 INFO Планировщик запущен
+2023-03-18 03:34:27,412 INFO Программа запущена
+2023-03-18 03:34:27,603 INFO Планировщик запущен
+2023-03-18 03:38:05,801 INFO Произошла ошибка при загрузке страницы Navigation failed because page was closed!
+=========================== logs ===========================
+navigating to "https://www.kommersant.ru//doc/5886082", waiting until "load"
+============================================================
+2023-03-18 03:38:05,836 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-18 03:38:05,862 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-18 03:38:05,881 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-18 03:38:05,906 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-18 03:38:05,931 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-18 03:38:05,950 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-18 03:38:05,976 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-18 03:38:06,008 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-18 03:38:06,027 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-18 03:38:06,066 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-18 03:38:06,093 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-18 03:38:06,117 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-18 03:38:06,133 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-18 03:38:06,148 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-18 03:38:06,162 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-18 03:38:06,174 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-18 03:38:06,189 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-18 03:38:06,214 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-18 03:38:06,240 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-18 03:38:06,255 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-18 03:38:06,268 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-18 03:38:06,282 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-18 03:38:06,294 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-18 03:38:06,309 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-18 03:38:06,323 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-18 03:38:06,338 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-18 03:38:06,352 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-18 03:38:06,367 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-18 03:38:06,398 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-18 03:38:06,420 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-18 03:38:06,438 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-18 03:38:06,459 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-18 03:38:06,482 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-18 03:38:06,498 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-18 03:38:06,518 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-18 03:38:06,540 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-18 03:38:06,565 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-18 03:38:06,598 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-18 03:38:06,623 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-18 03:38:06,642 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-18 03:38:06,675 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-18 03:38:06,701 INFO Произошла ошибка при загрузке страницы Target page, context or browser has been closed
+2023-03-18 03:38:27,820 INFO Программа запущена
+2023-03-18 03:38:28,008 INFO Планировщик запущен
+2023-03-18 03:40:06,277 INFO Программа запущена
+2023-03-18 03:40:06,494 INFO Планировщик запущен
+2023-03-18 03:40:28,723 INFO Программа запущена
+2023-03-18 03:40:28,906 INFO Планировщик запущен
+2023-03-18 03:49:18,972 INFO Программа запущена
+2023-03-18 03:49:19,203 INFO Планировщик запущен
+2023-03-18 04:15:58,441 INFO Ошибка при парсинге Коммерсант Target page, context or browser has been closed
+2023-03-18 04:16:47,523 INFO Программа запущена
+2023-03-18 04:16:47,727 INFO Планировщик запущен
+2023-03-18 04:16:47,729 INFO [Errno 2] No such file or directory: 'settings/channels.yaml'
+2023-03-18 04:17:02,345 INFO Программа запущена
+2023-03-18 04:17:02,537 INFO Планировщик запущен
+2023-03-18 04:24:43,743 INFO Программа запущена
+2023-03-18 04:24:43,981 INFO Планировщик запущен
+2023-03-18 04:24:45,903 INFO [Errno 2] No such file or directory: 'data/channels.yaml'
+2023-03-18 04:24:51,160 INFO Программа запущена
+2023-03-18 04:24:51,336 INFO Планировщик запущен
+2023-03-18 04:24:53,021 INFO [Errno 2] No such file or directory: 'data/channels.yaml'
+2023-03-18 04:25:42,153 INFO Программа запущена
+2023-03-18 04:25:42,328 INFO Планировщик запущен
+2023-03-18 04:25:43,807 INFO [Errno 2] No such file or directory: 'data/channels.yaml'
+2023-03-18 04:25:52,777 INFO Программа запущена
+2023-03-18 04:25:52,970 INFO Планировщик запущен
+2023-03-18 04:25:54,409 INFO [Errno 2] No such file or directory: 'data/channels.yaml'
+2023-03-18 04:26:06,895 INFO Программа запущена
+2023-03-18 04:26:07,068 INFO Планировщик запущен
+2023-03-18 04:26:08,600 INFO [Errno 2] No such file or directory: 'data/channels.yaml'
+2023-03-18 04:27:14,577 INFO Программа запущена
+2023-03-18 04:27:14,789 INFO Планировщик запущен
+2023-03-18 04:27:16,493 INFO [Errno 2] No such file or directory: 'data/channels.yaml'
+2023-03-18 04:27:30,164 INFO Программа запущена
+2023-03-18 04:27:30,360 INFO Планировщик запущен
+2023-03-18 04:27:31,689 INFO [Errno 2] No such file or directory: 'data/channels.yaml'
+2023-03-18 04:27:42,528 INFO Программа запущена
+2023-03-18 04:27:42,720 INFO Планировщик запущен
+2023-03-18 04:27:43,878 INFO [Errno 2] No such file or directory: 'data/channels.yaml'
+2023-03-18 04:31:10,604 INFO Программа запущена
+2023-03-18 04:31:10,888 INFO Планировщик запущен
+2023-03-18 22:58:37,806 INFO Произошла ошибка при запуске Telethon. Connection to Telegram failed 5 time(s) 
+2023-03-18 22:59:32,254 INFO Программа запущена
+2023-03-18 22:59:32,557 INFO Планировщик запущен
+2023-03-18 23:00:40,100 INFO Программа запущена
+2023-03-18 23:00:40,530 INFO Планировщик запущен
+2023-03-18 23:01:03,658 INFO Произошла ошибка при загрузке страницы Navigation failed because page was closed!
+=========================== logs ===========================
+navigating to "https://www.kommersant.ru/lenta?from=all_lenta", waiting until "load"
+============================================================
+2023-03-18 23:01:11,015 INFO Программа запущена
+2023-03-18 23:01:11,253 INFO Планировщик запущен
+2023-03-18 23:06:13,908 INFO Данные добавлены в data/news.csv
+2023-03-18 23:06:13,909 INFO Парсинг kommersant.ru успешно закончен
+2023-03-18 23:13:26,088 INFO Произошла ошибка при запуске Telethon. Connection to Telegram failed 5 time(s) 
+2023-03-19 20:24:10,141 INFO object of type 'NoneType' has no len()
+2023-03-19 20:24:36,393 INFO object of type 'NoneType' has no len()
+2023-03-19 20:25:50,185 INFO object of type 'NoneType' has no len()
+2023-03-19 20:26:12,257 INFO object of type 'NoneType' has no len()
+2023-03-19 20:26:35,393 INFO object of type 'NoneType' has no len()
+2023-03-19 20:26:52,413 INFO object of type 'NoneType' has no len()
+2023-03-19 20:27:08,376 INFO object of type 'NoneType' has no len()
+2023-03-19 20:27:20,451 INFO object of type 'NoneType' has no len()
+2023-03-19 20:27:37,994 INFO object of type 'NoneType' has no len()
+2023-03-19 20:28:00,154 INFO object of type 'NoneType' has no len()
+2023-03-19 20:28:17,774 INFO object of type 'NoneType' has no len()
+2023-03-19 20:43:49,997 INFO Произошла ошибка при запуске Telethon. Connection to Telegram failed 5 time(s) 
+2023-03-19 20:44:02,217 INFO Произошла ошибка при запуске Telethon. Connection to Telegram failed 5 time(s) 
+2023-03-19 20:44:10,248 INFO Произошла ошибка при запуске Telethon. Connection to Telegram failed 5 time(s) 
+2023-03-19 20:59:35,091 INFO Программа запущена
+2023-03-19 20:59:35,321 INFO Планировщик запущен
+2023-03-19 20:59:36,304 INFO Новый канал https://t.me/anothertestcanal добавлен в список чатов
+2023-03-19 20:59:37,247 INFO Новый канал https://t.me/dataleak добавлен в список чатов
+2023-03-19 20:59:38,478 INFO Новый канал https://t.me/hello_test_hey добавлен в список чатов
+2023-03-19 21:10:47,247 INFO Программа запущена
+2023-03-19 21:10:47,365 INFO Планировщик запущен
